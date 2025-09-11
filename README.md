@@ -9,7 +9,7 @@
 
 This repository contains the official code for the paper "Microscopic Analysis of the Latent Space: Heuristics for Interpretability, Authenticity, and Bias Detection in VAE Representations".
 
-**[Read the full Pre-Print on Zenodo (Your DOI Link Here)](https://doi.org/10.5281/zenodo.16827724)
+**[Read the full Pre-Print on Zenodo ( DOI Link Here)](https://doi.org/10.5281/zenodo.16827724)
 
 ---
 
