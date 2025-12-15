@@ -52,7 +52,7 @@ Comparative results of hyperparameter optimization, demonstrating the superiorit
 
 This repository contains the source code in the `.ipynb` file. The GitHub interface may fail to render this large notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eddieHerman-lab/Space_latent_Analysis/blob/main/Vae_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubtocolab/eddieHerman-lab/Space_latent_Analysis/blob/main/Vae_project.ipynb)
 
 
 ## Quick start
